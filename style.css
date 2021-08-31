@@ -1,0 +1,188 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.navbar{
+    padding: 5px;
+    text-align: center;
+
+
+}
+.container{
+    padding: 5px;
+
+}
+h2{
+    padding: 5px;
+    font-size: 28px;
+    color: white;
+    margin-top: 25px;
+}
+h1{
+color: white;
+}
+.mid-1{
+    height: 400px;
+    display: flex;
+    background: #423c3c;
+}
+button{
+    height: 50px;
+    margin-top: 18px;
+    border-radius: 22px;
+    width: 110px;
+    background: #ff8324;
+    border: 2px solid rgb(245, 236, 236);
+    cursor: pointer;
+   
+}
+button:hover{
+    background-color: rgb(247, 86, 46);
+}
+.midtext{
+    display: block;
+    margin-left: -500px;
+}
+.image img{
+    margin-left: 225px;
+    height: 400px;
+    width: 750px;
+    
+}
+.box{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-align: right;
+
+
+}
+.box-1{
+    height: 282px;
+    width: 290px;
+
+}
+.box-2{
+    margin: 20px;
+    height: 282px;
+    width: 290px;
+
+}
+.box-3{
+    margin: 20px;
+    height: 282px;
+    width: 290px;
+
+}
+p{
+    margin-top: 10px;
+    font-size: 22px;
+    margin-bottom: 17px;
+}
+button2{
+    height: 40px;
+    padding: 12px;
+    border-radius: 22px;
+    margin-left: 12px;
+    width: 90px;
+    padding-left: 33px;
+    background: #ff8324;
+    border: 2px solid rgb(245, 236, 236);
+    cursor: pointer;
+
+
+}
+button2:hover{
+    background-color: rgb(247, 86, 46);
+
+}
+
+p1{
+    padding: 292px;
+}
+.pic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.image2 img{
+    
+    width: 555px;
+    height: 470px;
+    margin: 21px;
+
+}
+.image2:hover{
+    width: 550px;
+    height: 430px;
+    padding-right: 50px;
+    padding: 18px;
+    margin-right: 12px;
+}
+.img11 img{
+    height: 45px;
+    padding: 5px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    font-size: 32px;
+    color: #ff8324;
+    font-weight: bold;
+}
+h5{
+    font-size: 25px;
+    margin: 10px;
+
+}
+p5{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.mid-3{
+    background-color: rgb(235, 230, 230);
+    padding: 22px;
+}
+p6{
+    margin: 12px;
+}
+.image5 img{
+    margin: 20px;
+    height: 530px;
+
+}.image6 img{
+    margin: 20px;
+    height: 530px;
+    
+}.image7 img{
+    margin: 20px;
+    height: 532px;
+    
+}.image8 img{
+    margin: 20px;
+    height: 534px;
+    
+}
+.pics{
+    background: #515050;
+}
+.pics :hover{
+ padding: 50px;
+}
+.logo4{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(56, 55, 55);
+  
+}
+.logo4 img{
+    display: flex;
+    width: 90px;
+    padding: 41px;
+}
+.footer{
+    background-color: skyblue;
+    padding: 22px;
+}
