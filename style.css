@@ -2,7 +2,7 @@
     padding:0px;
     margin: 0px;
 }
-navbar{
+.navbar{
     padding: 5px;
     text-align: center;
 
@@ -123,7 +123,7 @@ p1{
     height: 45px;
     padding: 5px;
 }
-.nav{
+nav{
     display: flex;
     justify-content: center;
 }
